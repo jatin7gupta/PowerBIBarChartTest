@@ -1,0 +1,30 @@
+{
+  "name": "powerbibarcharttest",
+  "dependencies": {
+    "d3": "^5.0.0",
+    "powerbi-visuals-utils-dataviewutils": "1.2.0"
+  },
+  "devDependencies": {
+    "@types/d3": "^3.5.40"
+  },
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "pbiviz start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jatin7gupta/PowerBIBarChartTest.git"
+  },
+  "keywords": [
+    "power",
+    "bi"
+  ],
+  "author": "Jatin Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jatin7gupta/PowerBIBarChartTest/issues"
+  },
+  "homepage": "https://github.com/jatin7gupta/PowerBIBarChartTest#readme"
+}
